@@ -6,13 +6,15 @@ html {
   font-size: 100px;
   font-weight: bold;
   text-align: center;
+  letter-spacing: 0.2em;
+  line-height: 1.2;
+  max-width: none;
   color: khaki;
-  text-justify: auto;
   background-image: url("../images/pattern.jpeg");
   background-size: cover;
   background-position: top center;
   width: 100%;
-  height: 100px;
+  height: 115px;
   margin-top: 50px;
 }
 
